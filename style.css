@@ -1,0 +1,60 @@
+*{margin:0; padding:0;}
+#container{border:1px solid blue; width:80%; margin:10px auto;}
+#header{border:1px solid blue; width:1065px; height:100px; margin:5px; text-align:center;}
+#nav{border:1px solid blue; width:1060px; height:70px; margin:10px;}
+#links{border:1px solid blue; width:1065px; height:500px; margin:5px; /*background-image:url(Banner2_1.png);*/}
+#product{border:1px solid blue; width:1065px; height:700px; margin:5px;}
+#content{border:1px solid blue; width:1065px; height:500px; margin:5px;}
+#footer{border:1px solid blue; width:1065px; height:260px; margin:5px; background-color:#000; color:#FFF;}
+#left{border:1px solid blue; width:341px; height:50px; margin:5px;}
+#centre{border:1px solid blue; width:341px; height:50px; margin:5px;}
+#right{border:1px solid blue; width:341px; height:50px; margin:5px;}
+#left,#centre,#right{float:left;}
+#left{clear:both;}
+#header a{color: #000;font-family:Georgia, "Times New Roman", Times, serif;padding:20px;width:164px;display:inline-block;text-decoration:none;letter-spacing:1px;border-right:1px solid #999; line-height:1px; padding:0;}
+#header a:hover{background-color: #FFF;color:#F39;text-decoration:none;letter-spacing:3px;}
+h1{letter-spacing:7px; color:#F39; font-size:xx-large;}
+h3{color:#333; font-size:12px;}
+#left{background-color:#000; letter-spacing:1px; padding: 0px; text-align:center;}
+#left a{color: #FFF; text-decoration:none;}
+#centre{background-color:#F39; letter-spacing:1px; padding: 0px; text-align:center;}
+#centre a{color: #FFF; text-decoration:none;}
+#right{background-color:#000; letter-spacing:1px; padding: 0px; text-align:center;}
+#right a{color: #FFF; text-decoration:none}
+#bag{border:1px solid blue; width:750px; height:340px; margin:5px;}
+#gown{border:1px solid blue; width:285px; height:340px; margin:5px;}
+#discount{border:1px solid blue; width:285px; height:340px; margin:5px;}
+#blouse{border:1px solid blue; width:750px; height:340px; margin:5px;}
+#bag,#gown{float:left;}
+#bag{clear:both;}
+#discount,#blouse{float:left;}
+#discount{clear:both;}
+#jumpsuit{border:1px solid blue; width:200px; height:310px; margin:40px 5px 100px 5px;}
+#wrapdress{border:1px solid blue; width:200px; height:310px; margin:40px 5px 100px 5px;}
+#pencilskirt{border:1px solid blue; width:200px; height:310px; margin:40px 5px 100px 5px;}
+#peplumdress{border:1px solid blue; width:200px; height:310px; margin:40px 5px 100px 5px;}
+#tiedress{border:1px solid blue; width:200px; height:310px; margin:40px 5px 100px 5px;}
+#jumpsuit,#wrapdress,#pencilskirt,#peplumdress,#tiedress{float:left;}
+#jumpsuit{clear:both;}
+#best{text-align:center; margin-top:15px; word-spacing:15px; letter-spacing:5px;}
+.best1{text-align:center; font-size:12px; font-family: Arial, Helvetica, sans-serif;}
+#news{border: 1px solid blue; width:330px; height:235px; margin:0px;padding-left:15px; letter-spacing:7px; padding-top:25px;}
+#social{border: 1px solid blue; width:237px; height:258px; margin:0px;}
+#help{border: 1px solid blue; width:237px; height:258px; margin:0px;}
+#company{border: 1px solid blue; width:237px; height:258px; margin:0px;}
+#news,#social,#help,#company{float:left}
+#news{clear:both;}
+ul{padding-left:15px; list-style-type:none;}
+.footer1{padding-left:15px; letter-spacing:7px; padding-top:40px;}
+li a{color:#FFF; text-decoration:none;}
+#container2{border: 1px solid blue; width:80%; /*height:90%;*/}
+#header2{border:1px solid blue; width:1065px; height:100px; margin:5px; text-align:center;}
+#content2{border:1px solid blue; width:1065px; height:500px; margin:5px;}
+#links2{border:1px solid blue; width:209px; height:800px; margin:5px;padding:0;background-color:#09C;}
+#footer2{border:1px solid blue; width:1065px; height:260px; margin:5px; background-color:#000; color:#FFF;}
+#header2 a{color: #000;font-family:Georgia, "Times New Roman", Times, serif;padding:20px;width:164px;display:inline-block;text-decoration:none;letter-spacing:1px;border-right:1px solid #999; line-height:1px; padding:0;}
+#header2 a:hover{background-color: #FFF;color:#F39;text-decoration:none;letter-spacing:3px;}
+.page2{border-bottom:2px solid #FFF; list-style-type:none;}
+.page2 a{color:#FFF;padding:10px 20px;display:block;text-decoration:none;font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;letter-spacing:1px; height:69px;}
+.page2 a:hover{background-color:#FFF;color:#09F;text-decoration:underline;}
+.contact{text-align:center;}
